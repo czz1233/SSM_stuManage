@@ -1,1 +1,1 @@
-# SSM_stuManage
+# 基础的学生管理系统
